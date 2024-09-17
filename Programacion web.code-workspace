@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Programacion web"
+		},
+		{
+			"path": "../PaginaPersonal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PaginaPersonal",
+		"liveServer.settings.port": 5501
+	}
+}
